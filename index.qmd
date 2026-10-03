@@ -2,7 +2,7 @@
 title: "DISTRIBUCIONES DE FRECUENCIAS"
 subtitle: "CONCEPTOS"
 author: 
-  - name: Juan Manuel Rangel Rodrígez <br> Miguel Angel Varon Perez <br> Juan Estaban Bermúdez Lozano
+  - name: Juan Manuel Rangel Rodríguez <br> Miguel Angel Varon Perez <br> Juan Estaban Bermúdez Lozano
     affiliation: "Universidad del Tolima"
     affiliation-url: "https://www.ut.edu.co/"
 date: today
