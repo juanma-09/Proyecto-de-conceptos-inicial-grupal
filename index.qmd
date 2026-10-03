@@ -223,7 +223,7 @@ hr {
 }
 </style>
 ```
-
+# Cargar paquetes
 ```{r}
 ipak <- function(pkg){
 
